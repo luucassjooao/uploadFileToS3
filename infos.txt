@@ -1,0 +1,6 @@
+-> Garantir que a lambda está na mesma region do bucket
+  OOU, configurar a region no S3Client
+
+-> Configurar o timeout
+
+-> Permissões da lambda
